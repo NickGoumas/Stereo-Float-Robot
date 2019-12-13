@@ -1,0 +1,17 @@
+# Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# catkin workspace build and devel directories 
+/build/*
+/devel/*
+
+# images in calibrationdata directory
+/calibrationdata/*.png
+
